@@ -10,7 +10,7 @@ int main(){
 	scanf("%f", &c);
 	//f = 1.8*c+32;
 	f=(9.0/5.0)*c+32;
-	printf("The Temperature in Fahrenheit is: %f",f);
+	printf("The Temperature in Fahrenheit is: %.2f F",f);
 	
 	return 0;
 }

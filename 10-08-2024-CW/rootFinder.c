@@ -14,8 +14,8 @@ int main(){
 	r1 = (-b + (sqrt(pow(b,2)-4.0*a*c)))/2.0*a;
 	r2 = (-b - (sqrt(pow(b,2)-4.0*a*c)))/2.0*a;
 	
-	printf("Root 1 : %f\n",r1);
-	printf("Root 2 : %f",r2);
+	printf("Root 1 : %.2f\n",r1);
+	printf("Root 2 : %.2f",r2);
 	
 	return 0;
 }
