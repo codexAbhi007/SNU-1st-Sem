@@ -18,6 +18,8 @@ int main(){
 	printf("Root 2 : %.2f",r2);
 
 	printf("Hello ")
+
+	printf("Ab nahi hua toh mai apna system32 folder ur dunga")
 	
 	return 0;
 }
