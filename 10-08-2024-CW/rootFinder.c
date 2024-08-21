@@ -16,6 +16,8 @@ int main(){
 	
 	printf("Root 1 : %.2f\n",r1);
 	printf("Root 2 : %.2f",r2);
+
+	printf("Hello ")
 	
 	return 0;
 }
